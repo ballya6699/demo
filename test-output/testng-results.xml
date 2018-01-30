@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9886" started-at="2017-01-21T17:23:02Z" finished-at="2017-01-21T17:23:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9886" started-at="2017-01-21T17:23:02Z" finished-at="2017-01-21T17:23:12Z">
+      <class name="selenium.TestngDemo">
+        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:selenium.TestngDemo@342c38f8]" name="verifyTitle" duration-ms="9859" started-at="2017-01-21T22:53:02Z" finished-at="2017-01-21T22:53:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+      </class> <!-- selenium.TestngDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
